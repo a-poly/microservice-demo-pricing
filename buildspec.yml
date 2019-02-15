@@ -12,4 +12,5 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/spring-cloud-aws-microservice-pricing-1.war
+    - target/microservice-demo-pricing-1.war
+    
